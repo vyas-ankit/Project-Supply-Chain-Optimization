@@ -45,6 +45,7 @@ The results in brief, for the 4 configurations are as follows:
 |Conf. B|135|108|80|6|
 |Conf. C|187|54|43|0|
 |Conf. D|181|59|80|3|
+
 Opex\_Case\_Study\_Sol.zip
 
 The .zip file contains 4 folders:
