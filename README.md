@@ -1,4 +1,4 @@
-Case Study - A Brief Overview
+### Project Overview, Mathematical Modeling and Results
 
 The case study aims at optimizing the supply chain network for a glass manufacturer in the United States. The company currently serves 50 customers located across the US, each of which has demand for five different glass products. The glass products are made at four different US plants. Currently, the company produces each product at one location only and serves each customer directly from the source plant.
 
